@@ -1,0 +1,1 @@
+console.log("India will lift the WTC mace");
